@@ -1,0 +1,27 @@
+{
+  "name": "lab-node-api-pro-celebrities",
+  "version": "1.0.0",
+  "description": "![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-aditt/lab-node-api-pro-celebrities.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-aditt/lab-node-api-pro-celebrities/issues"
+  },
+  "homepage": "https://github.com/mr-aditt/lab-node-api-pro-celebrities#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
+}
